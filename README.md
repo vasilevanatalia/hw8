@@ -1,9 +1,9 @@
 
 Использовала регулярное выражение: \n\r заменила все вхождения на \0
-![](https://ibb.co/cWHcLy)
+![](https://cdn1.savepice.ru/uploads/2018/6/3/60671cf6b7e869d2a8f2705169fdad5f-full.png)
 
 Использовала регулярное выражение: [А-Я]*?слав  Всего упоминаний о князьях нашла: 653
-![](https://cdn1.savepice.ru/uploads/2018/6/3/79fdd025f004ec7cc7d3ff2a8a08217c-full.png)
+![](https://cdn1.savepice.ru/uploads/2018/6/3/2ed73fcfeb10b08a20dd6f3b7c1c7a18-full.png)
 
 Использовал регулярное выражение: Нов.?город(.|)*? Всего упоминаний Новгорода нашла: 59
-![](https://cdn1.savepice.ru/uploads/2018/6/3/1ad699ed94c0f2005b4ca37d99fcfe5b-full.png)
+![](https://cdn1.savepice.ru/uploads/2018/6/3/fb8fc1de6c80019f5e4ddb7ebf38855f-full.png)
